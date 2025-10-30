@@ -1,0 +1,1 @@
+Nesse trbalho que fiz com minha equipe, fizemos diagramas de caso e de uso, onde server como uma planta para organizar ideias, para iniciar o projeto de fazer u aplicativo ou site usando os diagramas.
